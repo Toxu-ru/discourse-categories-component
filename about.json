@@ -1,0 +1,10 @@
+{
+  "name": "discourse-categories-component",
+  "license_url": "https://github.com/Toxu-ru/discourse-categories-component/blob/master/LICENSE",
+  "about_url": "https://github.com/Toxu-ru/discourse-categories-component/blob/master/README.md",
+  "component": true,
+  "assets": {
+  },
+  "color_schemes": {
+  }
+}
